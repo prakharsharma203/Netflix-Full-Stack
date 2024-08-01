@@ -8,7 +8,7 @@ Netflix is a leading streaming service that offers a wide variety of TV shows, m
 
 ## Hosted Link
 
-Check out the live demo of the project [https://mern-netflix-clone-pdr4.onrender.com](#).
+Check out the live demo of the project [here](https://mern-netflix-clone-pdr4.onrender.com).
 
 ## Features
 
@@ -39,8 +39,6 @@ Check out the live demo of the project [https://mern-netflix-clone-pdr4.onrender
 - **Database**:
   - MongoDB
 
+## Contributing 
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/netflix-clone.git
-   cd netflix-clone
+Contributions are welcome! If you have any ideas for improvements, feel free to open an issue or submit a pull request.
