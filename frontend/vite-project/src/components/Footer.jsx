@@ -7,15 +7,15 @@ const Footer = () => {
 				<p className='text-balance text-center text-sm leading-loose text-muted-foreground md:text-left'>
 					Built by {" "}
 					<a
-						href=''
+						href='https://github.com/prakharsharma203'
 						target='_blank'
 						className='font-medium underline underline-offset-4'
 					>
-						you
+						Prakhar Sharma
 					</a>
 					. The source code is available on{" "}
 					<a
-						href=''
+						href='https://github.com/prakharsharma203/Netflix-Full-Stack'
 						target='_blank'
 						rel='noreferrer'
 						className='font-medium underline underline-offset-4'
