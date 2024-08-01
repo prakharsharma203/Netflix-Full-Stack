@@ -1,11 +1,11 @@
 import express from "express"
-import { getSearchHistory, removeItemFromSearchHistory, searchMovie, searchTv } from "../controllers/search.controllers.js"
+import { getSearchHistory, removeItemFromSearchHistory, searchMovie, searchPerson, searchTv } from "../controllers/search.controllers.js"
 
 
 
 const router = express.Router()
 
-router.get("/person/:query",searchMovie)
+router.get("/person/:query",searchPerson)
 
 router.get("/movie/:query",searchMovie)
 
